@@ -1,0 +1,194 @@
+﻿  CourseWork_Test.cpp
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,18): error C3646: 'groupNum': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(14,44): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,18): error C3646: 'GetGroupNumber': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,32): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(26,22): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(32,76): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,18): error C3646: 'position': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(12,44): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,18): error C3646: 'GetPosition': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,29): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(22,19): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(26,76): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(19): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(20,86): error C2061: syntax error: identifier 'examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(34,11): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(42,28): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\CourseWork_Test.cpp(37,41): error C2661: 'Student::Student': no overloaded function takes 3 arguments
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\CourseWork_Test.cpp(46,98): error C2661: 'Exam::Exam': no overloaded function takes 9 arguments
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\CourseWork_Test.cpp(47,96): error C2661: 'Exam::Exam': no overloaded function takes 9 arguments
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\CourseWork_Test.cpp(48,97): error C2661: 'Exam::Exam': no overloaded function takes 9 arguments
+  Exam.cpp
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,18): error C3646: 'groupNum': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(14,44): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,18): error C3646: 'GetGroupNumber': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,32): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(26,22): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(32,76): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,18): error C3646: 'position': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(12,44): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,18): error C3646: 'GetPosition': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,29): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(22,19): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(26,76): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(19): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(20,86): error C2061: syntax error: identifier 'examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(34,11): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(42,28): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(6,32): error C2061: syntax error: identifier 'examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(11,11): error C2065: 'date': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(7,9): error C2661: 'Student::Student': no overloaded function takes 3 arguments
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(8,2): error C2614: 'Exam': illegal member initialization: 'Teacher' is not a base or member
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(23,10): error C2665: 'examDate::examDate': none of the 4 overloads could convert all the argument types
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\examDate.h(25,2): message : could be 'examDate::examDate(examDate &&) noexcept'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\examDate.h(23,2): message : or       'examDate::examDate(const examDate &)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(23,10): message : 'examDate::examDate(const examDate &)': cannot convert argument 1 from 'const Exam' to 'const examDate &'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(24,24): message : Reason: cannot convert from 'const Exam' to 'const examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(23,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\examDate.h(23,2): message : see declaration of 'examDate::examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(24,24): message : while trying to match the argument list '(const Exam)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(20,2): error C2614: 'Exam': illegal member initialization: 'Teacher' is not a base or member
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(28,2): error C2614: 'Exam': illegal member initialization: 'Teacher' is not a base or member
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(71,33): error C2761: 'void Exam::SetExamDate(examDate)': redeclaration of member is not allowed
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(71,24): error C2597: illegal reference to non-static member 'Exam::examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(12): message : see declaration of 'Exam::examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(71,33): error C2146: syntax error: missing ')' before identifier 'newExamDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(72,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(72,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.cpp(93,11): error C2352: 'Teacher::DisplayInfo': a call of a non-static member function requires an object
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(24): message : see declaration of 'Teacher::DisplayInfo'
+  examDate.cpp
+  Gradebook.cpp
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,18): error C3646: 'groupNum': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(14,44): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,18): error C3646: 'GetGroupNumber': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,32): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(26,22): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(32,76): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,18): error C3646: 'position': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(12,44): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,18): error C3646: 'GetPosition': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,29): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(22,19): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(26,76): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(19): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(20,86): error C2061: syntax error: identifier 'examDate'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(34,11): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Exam.h(42,28): error C2327: 'Exam::examDate': is not a type name, static, or enumerator
+  Person.cpp
+  Student.cpp
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,18): error C3646: 'groupNum': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(8,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(14,44): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,18): error C3646: 'GetGroupNumber': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,32): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(23,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(26,22): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(32,76): error C2061: syntax error: identifier 'UniversityGroup'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(5,10): error C2511: 'Student::Student(std::string,std::string,UniversityGroup)': overloaded member function not found in 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(6,52): error C2550: 'Student::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(10,2): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(10,22): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(15,2): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(15,24): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(15,32): error C2672: 'std::move': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368,21): message : could be '_OutIt std::move(_InIt,_InIt,_OutIt)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(15,13): message : '_OutIt std::move(_InIt,_InIt,_OutIt)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368): message : see declaration of 'std::move'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\type_traits(1422,48): message : or       'remove_reference<_Ty>::type &&std::move(_Ty &&) noexcept'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(22,26): error C2039: 'GetGroupNumber': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(24,9): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(27,15): error C2511: 'void Student::SetGroupNumber(UniversityGroup)': overloaded member function not found in 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(29,2): error C2671: 'Student::SetGroupNumber': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(35,30): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(42,18): error C2511: 'Student Student::operator ()(const std::string &,const std::string &,UniversityGroup)': overloaded member function not found in 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(45,10): error C2352: 'Person::operator ()': a call of a non-static member function requires an object
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Person.h(36): message : see declaration of 'Person::operator ()'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(48,2): error C2671: 'Student::()': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(50,10): error C2671: 'Student::()': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(62,3): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(62,23): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(73,3): error C2065: 'groupNum': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(73,25): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(73,33): error C2672: 'std::move': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368,21): message : could be '_OutIt std::move(_InIt,_InIt,_OutIt)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(73,14): message : '_OutIt std::move(_InIt,_InIt,_OutIt)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368): message : see declaration of 'std::move'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\type_traits(1422,48): message : or       'remove_reference<_Ty>::type &&std::move(_Ty &&) noexcept'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(88,11): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(92,11): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.cpp(102,37): error C2039: 'groupNum': is not a member of 'Student'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Student.h(4): message : see declaration of 'Student'
+  Teacher.cpp
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,18): error C3646: 'position': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(7,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(12,44): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,18): error C3646: 'GetPosition': unknown override specifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,29): error C2059: syntax error: '('
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(20,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(22,19): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(26,76): error C2061: syntax error: identifier 'TeacherPosition'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(5,10): error C2511: 'Teacher::Teacher(std::string,std::string,TeacherPosition)': overloaded member function not found in 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(6,52): error C2550: 'Teacher::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(10,2): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(10,22): error C2039: 'position': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(15,2): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(15,24): error C2039: 'position': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(15,32): error C2672: 'std::move': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368,21): message : could be '_OutIt std::move(_InIt,_InIt,_OutIt)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(15,13): message : '_OutIt std::move(_InIt,_InIt,_OutIt)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368): message : see declaration of 'std::move'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\type_traits(1422,48): message : or       'remove_reference<_Ty>::type &&std::move(_Ty &&) noexcept'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(24,26): error C2039: 'GetPosition': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(26,9): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(29,15): error C2511: 'void Teacher::SetPosition(TeacherPosition)': overloaded member function not found in 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(31,2): error C2671: 'Teacher::SetPosition': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(37,26): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(43,18): error C2511: 'Teacher Teacher::operator ()(const std::string &,const std::string &,TeacherPosition)': overloaded member function not found in 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(45,10): error C2352: 'Person::operator ()': a call of a non-static member function requires an object
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Person.h(36): message : see declaration of 'Person::operator ()'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(47,2): error C2671: 'Teacher::()': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(49,10): error C2671: 'Teacher::()': static member functions do not have 'this' pointers
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(58,3): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(58,23): error C2039: 'position': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(69,3): error C2065: 'position': undeclared identifier
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(69,25): error C2039: 'position': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(69,33): error C2672: 'std::move': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368,21): message : could be '_OutIt std::move(_InIt,_InIt,_OutIt)'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(69,14): message : '_OutIt std::move(_InIt,_InIt,_OutIt)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4368): message : see declaration of 'std::move'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\type_traits(1422,48): message : or       'remove_reference<_Ty>::type &&std::move(_Ty &&) noexcept'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.cpp(93,33): error C2039: 'position': is not a member of 'Teacher'
+C:\Users\Користувач\source\repos\CourseWork_Test\CourseWork_Test\Teacher.h(4): message : see declaration of 'Teacher'
+  Generating Code...
